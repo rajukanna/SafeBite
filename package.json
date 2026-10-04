@@ -1,0 +1,15 @@
+{
+  "name": "safebite-desktop",
+  "version": "1.0.0",
+  "description": "SafeBite Desktop - Allergen-Safe Smart Meal Planner",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["meal-planner", "allergen-safe", "desktop-app"],
+  "author": "Antigravity",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SafeBite Desktop - Allergen-Safe Meal Planner",
+  "short_name": "SafeBite",
+  "description": "Desktop meal planner and recipe manager tailored for friends avoiding Paneer, Curd, and Brinjal.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF5EE",
+  "theme_color": "#114240",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
