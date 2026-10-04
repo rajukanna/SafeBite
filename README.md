@@ -29,7 +29,7 @@ SafeBite transforms daily meal planning from a chore into a joy:
 ## Demo
 
 - **Live Repository:** [github.com/rajukanna/SafeBite](https://github.com/rajukanna/SafeBite)
-- **Zero-Setup Double Click:** Open [`index.html`](index.html) directly in any modern browser (Chrome, Edge, Brave, Firefox, Safari).
+- **Zero-Setup Double Click:** Open [`[index.html](https://rajukanna.github.io/SafeBite/)`](index.html) directly in any modern browser (Chrome, Edge, Brave, Firefox, Safari).
 - **Windows Desktop App (PWA):** SafeBite includes a complete `manifest.json` — open in Edge or Chrome and click **"Install SafeBite"** to run it as a standalone, borderless Windows desktop application with taskbar pinning.
 - **Native Desktop Window (Electron):** Run `npm start` to launch SafeBite as an independent 1280×820 desktop window.
 
